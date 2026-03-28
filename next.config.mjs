@@ -1,3 +1,4 @@
+@@ -0,0 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   eslint: {
@@ -10,5 +11,4 @@ const nextConfig = {
     unoptimized: true,
   },
 }
-
 export default nextConfig
